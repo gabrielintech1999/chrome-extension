@@ -11,6 +11,7 @@ body {
 
 .container {
     padding: 5px;
+    min-width: 460px;
 }
 
 
@@ -23,5 +24,8 @@ input {
 
 button {
     border: none;
-    width: 150px;
+    padding: 10px;
+    color: #fff;
+    background-color: green;
+    margin-top: 5px;
 }

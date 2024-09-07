@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "URL Tracker",
+    "version": "1.0",
+    "description": "The URL Tracker Chrome extension helps you monitor and manage your online activity by keeping a detailed log of the URLs you visit.",
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "./assets/icon.png"
+    },
+    "permissions": [
+      "tabs"
+    ]
+  }
+  
